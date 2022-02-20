@@ -13,6 +13,7 @@
   "permissions": [
       "activeTab",
       "https://moodle.tau.ac.il/*",
-      "https://nidp.tau.ac.il/nidp/*"
+      "https://nidp.tau.ac.il/nidp/*",
+      "https://www.ims.tau.ac.il/*"
   ]
 }
